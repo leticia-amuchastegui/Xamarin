@@ -53,6 +53,6 @@ Global
 		{5E14F936-61F2-4825-B11E-5D6F717ADCCF}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
 	EndGlobalSection
 	GlobalSection(MonoDevelopProperties) = preSolution
-		StartupItem = iOS\HolaMundo.iOS.csproj
+		description = cambio de hola mundo por mis datos
 	EndGlobalSection
 EndGlobal
