@@ -9,7 +9,7 @@ namespace HolaMundo
 		{	
 			return new ContentPage { 
 				Content = new Label {
-					Text = "Amuchastegui Peñafiel Leticia Numero de cuenta 413071161",
+					Text = " Amuchastegui Peñafiel Leticia Numero de cuenta 413071161  ",
 					VerticalOptions = LayoutOptions.CenterAndExpand,
 					HorizontalOptions = LayoutOptions.CenterAndExpand,
 				},
